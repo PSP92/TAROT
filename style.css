@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+
+div {
+    width: 100px;
+    height: 100px;
+   font-family:'Tangerine';
+   font-weight: bolder;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    background-color:#cd2f35;
+     color:black;
+     border-radius: 25px;
+     padding: 20px;
+     box-shadow:2px 2px #660F20;
+     justify-content: space-around;
+     cursor: pointer;
+}
+
+body{
+    background:#FFFCB4;
+}
